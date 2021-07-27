@@ -108,7 +108,7 @@ async def start(bot, cmd):
 					[
 						InlineKeyboardButton(" 👥 𝐀𝐛𝐨𝐮𝐭 ", callback_data="aboutbot"),
 						InlineKeyboardButton("👨‍🔧 𝐃𝐞𝐯 ", callback_data="aboutdevs")
-					]
+					], 
                                         [
 						InlineKeyboardButton(" 𝐆𝐢𝐭𝐡𝐮𝐛 ", url="https://GitHub.com/PredatorHackerzZ"),
 						InlineKeyboardButton("📢 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲", url="https://t.me/MoviesFlixers_DL")
