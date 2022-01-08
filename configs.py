@@ -30,11 +30,11 @@ Send me any file I will save it in my Database. Also works for channel. Add me t
 
 📡 **Hosted on:** [Heroku](https://heroku.com)
 
-🧑🏻‍💻 **Developer:** [TPL](https://TamilPrime_LinkZz
+🧑🏻‍💻 **Developer:** [@TAMILAN_MK]
 
 👥 **Support Group:** [TPL](https://t.me/TamilPrime_LinkZz)
 
-📢 **Updates Channel:** [Tamilprime](https://t.me/Tamil_prime)
+📢 **Updates Channel:** [TamilPrime_LinkZz](https://t.me/TamilPrime_LinkZz)
 """
 	ABOUT_DEV_TEXT = f"""
 🧑🏻‍💻 **Developer:** @TAMILAN_MK
