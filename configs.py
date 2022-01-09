@@ -30,7 +30,7 @@ Send me any file I will save it in my Database. Also works for channel. Add me t
 
 📡 **Hosted on:** [Heroku](https://heroku.com)
 
-🧑🏻‍💻 **Developer:** [@TAMILAN_MK]
+🧑🏻‍💻 **Developer:** @TAMILAN_MK
 
 👥 **Support Group:** [TPL](https://t.me/TamilPrime_LinkZz)
 
